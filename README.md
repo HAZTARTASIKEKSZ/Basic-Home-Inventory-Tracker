@@ -67,12 +67,3 @@ Subtract item: Type apple 1 kg in the "Elem levonása" field and click the butto
 Search: Use the search bar to find an item.
 
 Sync: Click "Szinkronizálás" to push updates to Google Sheets and sort the inventory.
-
-📁 Project Structure
-Basic-Home-Inventory-Tracker/
-│
-├── app.py                          # Main application script
-├── requirements.txt                # Required Python packages
-├── LICENSE                         # License file
-├── README.md                       # This documentation file
-└── your_service_account_key.json   # Google API credentials
