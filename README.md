@@ -36,7 +36,7 @@ cd Basic-Home-Inventory-Tracker
 Set up your Google Service Account
 
 Place your JSON key file in the project folder.
-Update the filename in the code (e.g., in app.py or elsoGUI.py) — modify the keyfile_path variable.
+Update the filename in the code — modify the keyfile_path variable.
 Configure the spreadsheet
 Replace the placeholder SPREADSHEET_ID in your code with the actual ID of your Google Sheet.
 
