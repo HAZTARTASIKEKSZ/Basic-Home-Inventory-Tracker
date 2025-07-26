@@ -71,9 +71,8 @@ Sync: Click "Szinkronizálás" to push updates to Google Sheets and sort the inv
 📁 Project Structure
 Basic-Home-Inventory-Tracker/
 │
-├── app.py                     # Main application script
-├── requirements.txt           # Required Python packages
-├── LICENSE                    # License file
-├── README.md                  # This documentation file
+├── app.py                          # Main application script
+├── requirements.txt                # Required Python packages
+├── LICENSE                         # License file
+├── README.md                       # This documentation file
 └── your_service_account_key.json   # Google API credentials
-
