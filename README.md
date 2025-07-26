@@ -69,9 +69,6 @@ Search: Use the search bar to find an item.
 Sync: Click "Szinkronizálás" to push updates to Google Sheets and sort the inventory.
 
 📁 Project Structure
-graphql
-Másolás
-Szerkesztés
 Basic-Home-Inventory-Tracker/
 │
 ├── app.py                     # Main application script
